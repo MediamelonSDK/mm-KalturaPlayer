@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.MediamelonSDK</groupId>
   <artifactId>mm-KalturaPlayer</artifactId>
-  <version>1.0.5</version>
+  <version>1.1.1</version>
   <packaging>pom</packaging>
   <description>MediaMelon SDK for Kaltura OTT Player</description>
 </project>
